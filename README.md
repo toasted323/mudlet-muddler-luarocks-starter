@@ -88,7 +88,7 @@ All original template code and documentation remain under the MIT License.
 
 ## License
 
-Copyright © 2024 github.com/toasted323
+Copyright © 2024-2025 github.com/toasted323
 
 This project is licensed under the MIT License.  
 See [LICENSE](LICENSE) in the root of this repository for full details.
