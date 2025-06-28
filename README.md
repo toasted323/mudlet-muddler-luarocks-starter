@@ -60,7 +60,7 @@ MUDs (Multi-User Dungeons).
    Click "Use this template" on GitHub, download the source archive, or clone 
    and remove `.git` to start a new project without inheriting git history:
    ```
-   git clone --depth 1 https://github.com/toasted323/mudlet-muddler-luarocks-starter.git
+   git clone --depth 1 https://github.com/toasted-mudlet/mudlet-muddler-luarocks-starter.git
    rm -rf .git
    git init
    git add .
@@ -101,9 +101,9 @@ See `.github/workflows/` for workflow definitions.
 If you create a new project based on this template, please retain the  
 attribution below and the original MIT license for all template-derived code.
 
-This project is based on [mudlet-muddler-luarocks-starter](https://github.com/toasted323/mudlet-muddler-luarocks-starter), 
-originally licensed under the MIT License (see [LICENSE](LICENSE) for details).
-All original template code and documentation remain under the MIT License.
+> This project is based on [mudlet-muddler-luarocks-starter](https://github.com/toasted-mudlet/mudlet-muddler-luarocks-starter), 
+> originally licensed under the MIT License (see [LICENSE](LICENSE) for details).
+> All original template code and documentation remain under the MIT License.
 
 ## License
 
